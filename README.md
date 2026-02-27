@@ -1,4 +1,4 @@
-## Hi there 👋
+![snake gif](https://raw.githubusercontent.com/TGMax233Michael/TGMax233Michael/output/github-snake.svg)
 
 <!--
 **TGMax233Michael/TGMax233Michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
