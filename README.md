@@ -6,12 +6,14 @@
 - 🎮**Games**: Minecraft
 - 🌱**Currently Learning**: Reinforcement Learning, Cloud Resource Scheduling
 
-Prefered Language:
+Tech. Stack:
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 Prefered Editer:
 
-![](https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![snake gif](https://raw.githubusercontent.com/TGMax233Michael/TGMax233Michael/output/github-snake.svg)
